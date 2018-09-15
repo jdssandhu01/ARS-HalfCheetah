@@ -4,7 +4,7 @@ ARS is a random search method for training linear policies for continuous contro
 
 This repository is a part of the Udemy course titled "Artificial Intelligence 2018: Build the Most Powerful AI". 
 
-# Prerequisites
+## Prerequisites
 For Mac and Linux users, use a terminal. For Windows users, use Anaconda Prompt. Type the following commands line by line to install the PyBullet and OpenAI gym environments:
 
 - __pip install gym==0.10.5__
@@ -13,6 +13,6 @@ For Mac and Linux users, use a terminal. For Windows users, use Anaconda Prompt.
 
 The above lines will install all the environment files that you would need to run the code.
 
-# Output
+## Output
 
 After successful installation run the code in Spyder/Ipython notebook according to your preference. The output (in the exp folder) will be saved in the form of videos that can be compared according to the rewards obtained in the respective steps.
